@@ -7,3 +7,4 @@
 - [2026-05-02T17:01:35Z] fix: resolve edge case in input validation
 - [2026-05-02T17:14:49Z] refactor: simplify conditional logic
 - [2026-05-02T22:31:57Z] perf: optimize loop for better performance
+- [2026-05-02T14:43:48Z] chore: remove deprecated API calls
